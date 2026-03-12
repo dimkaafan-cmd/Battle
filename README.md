@@ -329,7 +329,7 @@ BattleController.StartBattle()
 
 ## Как запустить
 
-1. Клонировать репозиторий
+1. Клонировать репозиторий https://github.com/dimkaafan-cmd/Battle
 2. Открыть в **Unity 2022.3 LTS** (или новее)
 3. Открыть сцену `Assets/Scenes/MainScene.unity`
 4. Нажать Play — проект запускается без дополнительных зависимостей
