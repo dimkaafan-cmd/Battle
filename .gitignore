@@ -1,0 +1,110 @@
+###
+# Unity folders and files
+###
+[Aa]ssets/AssetStoreTools*
+[Aa]ssets/StreamingAssets/assets/
+[Bb]uild/
+/[Ll]ibrary/
+[Ll]ocal[Cc]ache/
+[Oo]bj/
+[Rr]eplays/
+[Tt]emp/
+[Uu]nityGenerated/
+MemoryCaptures
+# file on crash reports
+sysinfo.txt
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+
+###
+# VS/MD solution and project files
+###
+[Ee]xportedObj/
+*.booproj
+*.csproj
+*.csproj.meta
+*.sln
+*.suo
+*.svd
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+.vscode
+
+# IDE
+.idea/
+.vscode/
+*.*.iml
+.utmp/
+# Visual Studio cache directory
+.vs/
+
+###
+# OS generated
+###
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Builds
+*.apk
+*.ipa
+*.aab
+*.unitypackage
+*.unitypackage.meta
+
+
+screenshotMaker
+/UserSettings
+/Logs
+Assets/StreamingAssets/devconsolebundles*
+Assets/StreamingAssets/internal*
+/ProjectSettings/boot.config
+/ProjectSettings/MultiplayerManager.asset
+/ProjectSettings/PackageManagerSettings.asset
+/ProjectSettings/UnityConnectSettings.asset
+/ProjectSettings/Packages/*
+/ProjectSettings/BurstAotSettings*
+/ProjectSettings/CommonBurstAotSettings*
+
+/Assets/Plugins/Android/MessagingUnityPlayerActivity.java*
+/Assets/Plugins/Android/Firebase*
+/Assets/Plugins/Android/Facebook*
+/Assets/Plugins/Android/GooglePlayGamesManifest*
+/Assets/Plugins/Android/AppLocales*
+/Assets/Plugins/Didomi*
+/Assets/Huawei/Settings*
+/Assets/Huawei/Editor/com.evilmind.huawei*
+**/*.xcodeproj/**/xcuserdata*
+**/.xcode-project/DerivedData*
+/Assets/LevelPlay/Editor/LevelPlayVersions.json*
+**/*Dependencies.xml~
+/Assets/Plugins/Android/ExponeaBridge.androidlib*
+/Assets/Editor/UniWebView*
+/Assets/Unity.VisualScripting.Generated/VisualScripting.*
+/Assets/OfferWallEdge/Resources/*
+
+
+/.project-config.json
+Assets/Resources/PerformanceTest*
+Assets/Resources/BillingMode.json*
+Assets/BuildInfo*
+Assets/TapjoySDK*
+/ProjectSettings/GooglePlayGameSettings.txt
+/Packages/packages-lock.json
+Assets/csc.rsp*
+
+# secrets
+/Assets/Secrets
+
+# unity clode code function
+lib_licale/Project/bin/*.*
+/lib_locale/Project/bin/Release/
+

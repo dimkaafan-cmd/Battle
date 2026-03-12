@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7dee8333baa1a475fb3a6b8979b8521d, type: 3}
+  m_Name: gameConfig
+  m_EditorClassIdentifier: Assembly-CSharp::Scripts.Data.GameConfig
+  unitConfig: {fileID: 11400000, guid: f51f2c8be2aec40e88dc344f1e34eea9, type: 2}
+  shapes:
+  - {fileID: 11400000, guid: beae7e0dc42a04acaae250ce2543f380, type: 2}
+  - {fileID: 11400000, guid: 1158df35361b34f7982ecb5644e7d518, type: 2}
+  sizes:
+  - {fileID: 11400000, guid: 1282bc912dca44a7290f4d5bf4b4aa26, type: 2}
+  - {fileID: 11400000, guid: 4cc475cf8e4314ecc890cc817edb54c3, type: 2}
+  colors:
+  - {fileID: 11400000, guid: 4aab0afa6c5d045e18e34b72c02f28af, type: 2}
+  - {fileID: 11400000, guid: 58202183481b546f69365308d23bb4ce, type: 2}
+  - {fileID: 11400000, guid: 518cfd3cfd2a14dc082e4f77ce3462d3, type: 2}
+  mutationConfig: {fileID: 11400000, guid: 530dfe846338b4b2ea61e55bcc14a02d, type: 2}
